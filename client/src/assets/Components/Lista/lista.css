@@ -1,0 +1,36 @@
+table{
+    width: 600px;
+  
+}
+thead{
+    font-size: 30px;
+}
+th{
+  width: 190px;  
+}
+.config{
+    width: 30px; 
+}
+td{
+    font-size: 20px;
+    font-weight: 400;
+}
+.linha{
+    cursor: pointer;
+    height: 20px;
+}
+.linha:hover{
+    background-color: #242424;
+    color: aliceblue;
+}
+.btn-editaExclui{
+    border: none;
+    border-radius: 50%;
+    background-color: aliceblue;
+    height: 30px;
+    width: 30px;
+
+}
+.icon-editaExclui{
+    font-size: 20px;
+}

@@ -1,0 +1,17 @@
+.display{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+.filtrar{
+    margin-top: 20px;
+}
+.lista{
+    border: solid 5px #242424;
+    border-radius: 25px;
+    height: 600px;
+    max-height: 800px;
+    padding: 20px;
+}

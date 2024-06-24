@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.interface{
+  display: flex;
+  width: 1280px;
+  height: 768px;
+  background-color: aliceblue;
+  border-radius: 20px;
+  box-shadow: 0 0 20px white;
+
+}

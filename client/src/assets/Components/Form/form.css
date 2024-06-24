@@ -1,0 +1,81 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.recebe{
+    border: solid 5px #242424;
+    border-radius: 25px;
+    width: 400px;
+    height: 300px;
+    padding: 20px;
+
+}
+.edita{
+    border: solid 5px #242424;
+    border-radius: 25px;
+    width: 400px;
+    height: 350px;
+    padding: 20px;
+}
+h2{
+    font-size: 40px;
+    color: #242424;
+}
+input{
+    border: none;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #242424;
+    color: aliceblue;
+    width: 380px;
+    font-size: 20px;
+}
+input::placeholder{
+    color: aliceblue;
+}
+.input-gender{
+    width: 160px;
+}
+.input-number{
+    width: 160px;
+}
+.gender-pag{
+    display: flex;
+    gap: 40px;
+}
+
+.btn-edita{
+    height: 30px;
+    width: 200px;
+    margin: auto;
+    border: none;
+    border-radius: 20px;
+    background-color: #242424;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+.btn-cancela{
+    height: 30px;
+    width: 100px;
+    margin: auto;
+    border: none;
+    border-radius: 20px;
+    background-color: #242424;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.btn-cadastra{
+    height: 30px;
+    width: 200px;
+    margin: auto;
+    border: none;
+    border-radius: 20px;
+    background-color: #242424;
+    color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
